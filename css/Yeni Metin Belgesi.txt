@@ -1,0 +1,6 @@
+<div class="footer-bottom">
+      <div class="container">
+        <p><strong>© Copyright 2024, DataHT Bilişim Hizmetleri - Tüm Hakları Saklıdır.</strong><a href="https://www.dmca.com/Protection/Status.aspx?ID=bc32722a-02c7-4d33-92c5-fcb3b4abf22a&amp;refurl=https://turkoyun.org/" target="_blank" title="DMCA.com Protection Status" class="dmca-badge"> <img src="images/images-Badges-dmca-badge-w150-5x1-09.png" alt="DMCA.com Protection Status"></a>  <script src="js/js-Badges-DMCABadgeHelper.min.js"> </script>  <script src="js/js-Badges-DMCABadgeHelper.min.js"> </script>  <script src="js/js-Badges-DMCABadgeHelper.min.js"> </script></p>
+        <div class="footer__column"><div class="footer__icons"> <a href="https://www.klogistics.com.tr/" rel="nofollow" target="_blank"><img loading="lazy" src="images/images-panel_logos-AZhLCo2LtVM7C6tVzmSx0lhRE52F19TMICCRRZGr.png" width="50"></a><a href="https://turkesporu.com/" rel="nofollow" target="_blank"></a>  <a href="https://www.guvendamgasi.org.tr/firmadetay.php" rel="nofollow" target="_blank"> </a></div></div>
+      </div>
+    </div>
